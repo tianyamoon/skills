@@ -1,0 +1,4 @@
+interface:
+  display_name: "公众号写作"
+  short_description: "把复盘、研究和方法笔记改写成可发布的公众号专业文章。"
+  default_prompt: "Use $zmt-gzh-zy to turn a research note or trading methodology into a professional WeChat public account article."

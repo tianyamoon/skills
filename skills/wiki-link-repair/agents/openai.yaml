@@ -1,0 +1,4 @@
+interface:
+  display_name: "wiki修链"
+  short_description: "支持修链、补双链、修反链、断链修复与孤点页修复。"
+  default_prompt: "Use $wiki-link-repair to repair broken wiki links, missing backlinks, and isolated knowledge pages."

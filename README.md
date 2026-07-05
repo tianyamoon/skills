@@ -17,7 +17,18 @@ Current imported skills:
 - `industry-cycle-methodology`
 - `industry-logic-scorer`
 - `industry-trend-stock-picker`
+- `raw-taxonomy-router`
+- `source-to-thesis-extractor`
+- `stock-wiki`
 - `technical-stock-picker`
+- `wiki-link-repair`
+- `zmt-gzh-zy`
+
+Chinese alias convention:
+
+- See `SKILL_ALIASES.md` for the recommended Chinese names.
+- These aliases are a human-facing routing convention, not the native skill `name`.
+- The stable explicit form is still `$english-skill-slug`.
 
 ## Recommended workflow
 

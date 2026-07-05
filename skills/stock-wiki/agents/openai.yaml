@@ -1,0 +1,4 @@
+interface:
+  display_name: "股票wiki"
+  short_description: "维护交易体系股票Wiki，覆盖入库、检索、维护、巡检与路由。"
+  default_prompt: "Use $stock-wiki to maintain the stock review wiki, including ingest, query, maintenance, and linting."

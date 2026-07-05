@@ -1,0 +1,4 @@
+interface:
+  display_name: "观点提炼"
+  short_description: "支持观点提炼、thesis 提炼、材料提炼与验证点提取。"
+  default_prompt: "Use $source-to-thesis-extractor to extract reusable theses, catalysts, and follow-up checks from source material."

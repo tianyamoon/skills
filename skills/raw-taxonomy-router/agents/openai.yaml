@@ -1,0 +1,4 @@
+interface:
+  display_name: "原始分类"
+  short_description: "支持原始分类、材料归类、raw 分类与入库路由判断。"
+  default_prompt: "Use $raw-taxonomy-router to classify source material into the right raw category and suggest routing decisions."
