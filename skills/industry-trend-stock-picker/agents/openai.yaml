@@ -1,0 +1,4 @@
+interface:
+  display_name: "趋势选股"
+  short_description: "用户提到趋势选股时触发，先排方向，再联动技术审查选个股。"
+  default_prompt: "用 $industry-trend-stock-picker 做趋势选股，先排方向；凡涉及月线、周线、乖离率和执行位时，显式调用 $technical-stock-picker 做技术审查。"

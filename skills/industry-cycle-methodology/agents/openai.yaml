@@ -1,0 +1,4 @@
+interface:
+  display_name: "行业周期方法论"
+  short_description: "区分过程层与结果层的行业周期研究与机构式输出技能"
+  default_prompt: "Use $industry-cycle-methodology 研究一个行业或公司组，先区分过程层与结果层；过程层完成边界定义、变量表、阶段判断、资本周期、估值预期和历史/AI映射，结果层再按顶级基金风格输出前门摘要、记分牌、事实、判断、变化、风险与附录。"

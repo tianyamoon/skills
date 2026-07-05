@@ -1,0 +1,13 @@
+interface:
+  display_name: "技术选股"
+  short_description: "用MCP拉K线，判断月周线趋势、乖离率和日线执行位"
+  default_prompt: "用 $technical-stock-picker 做技术选股，先用MCP取K线，再判断月线、周线、乖离率和执行条件。"
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "luna-stock-data-mcp"
+      description: "本机股票数据 MCP，用于个股与指数 K 线、个股详情和技术计算前的原始取数"
+
+policy:
+  allow_implicit_invocation: true

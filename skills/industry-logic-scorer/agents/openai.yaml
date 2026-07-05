@@ -1,0 +1,4 @@
+interface:
+  display_name: "Industry Logic Scorer"
+  short_description: "Scores industry theses and finds the weakest links."
+  default_prompt: "Use $industry-logic-scorer to score this industry research and identify its weakest links."
