@@ -1,6 +1,6 @@
 ---
 name: stock-wiki
-description: 股票wiki维护。维护 `F:\wiki\trade-system` 这套中文股票知识库，中文展示名为“股票wiki”，覆盖入库、检索、页面维护、结构巡检、落点路由与导航修复。用于用户提出“把这条资讯入库”“查某个题材/个股/复盘”“补这个页面”“这个该放哪里”“巡检一下 wiki”“修复双链/孤点页/错路径/真源漂移”“股票wiki维护”，或直接说“使用股票wiki”时。适用于 `raw/`、`topics/`、`entities/stocks/`、`reviews/`、`concepts/`、`strategies/`、`tactics/`、`sop/`、`cycles/`、`index.md`、`log.md` 的中文维护工作。
+description: 股票wiki维护，股票wiki。维护 `F:\wiki\trade-system` 这套中文股票知识库，中文展示名为“股票wiki”，覆盖入库、检索、页面维护、结构巡检、落点路由与导航修复。用于用户提出“股票”“把这条资讯入库”“查某个题材/个股/复盘”“补这个页面”“这个该放哪里”“巡检一下 wiki”“修复双链/孤点页/错路径/真源漂移”“股票wiki维护”，或直接说“使用股票wiki”时。适用于 `raw/`、`topics/`、`entities/stocks/`、`reviews/`、`concepts/`、`strategies/`、`tactics/`、`sop/`、`cycles/`、`index.md`、`log.md` 的中文维护工作。
 ---
 
 # stock-wiki

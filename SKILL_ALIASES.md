@@ -12,13 +12,13 @@ This file defines the recommended Chinese calling names for custom skills in thi
 
 | Skill slug | Recommended Chinese alias | Short alias | What it is for |
 |---|---|---|---|
-| `industry-cycle-methodology` | `行业周期方法论` | `周期方法论` | General industry-cycle research framework, including process layer and results layer |
-| `industry-logic-scorer` | `行业逻辑评分器` | `逻辑评分器` | Score the rigor of an industry thesis, sector note, or research draft |
-| `industry-trend-stock-picker` | `产业趋势选股` | `趋势选股` | Pick directions first, then select stocks within the winning direction |
+| `industry-cycle-methodology` | `股票行业周期方法论` | `行业周期方法论-股票` | General industry-cycle research framework, including process layer and results layer |
+| `industry-logic-scorer` | `股票行业逻辑评分器` | `行业逻辑评分器-股票` | Score the rigor of an industry thesis, sector note, or research draft |
+| `industry-trend-stock-picker` | `股票产业趋势选股` | `产业趋势选股票` | Pick directions first, then select stocks within the winning direction |
 | `raw-taxonomy-router` | `原始分类路由` | `分类路由` | Decide where raw materials should be filed before they enter the knowledge base |
 | `source-to-thesis-extractor` | `材料观点提炼` | `观点提炼` | Convert raw source material into reusable thesis, catalyst, and verification points |
-| `stock-wiki` | `股票wiki` | `股票知识库` | Maintain and route content inside `F:\wiki\trade-system` |
-| `technical-stock-picker` | `技术选股` | `图形选股` | Technical review for trend, deviation, support, pressure, and execution conditions |
+| `stock-wiki` | `股票wiki维护` | `股票wiki` | Maintain and route content inside `F:\wiki\trade-system` |
+| `technical-stock-picker` | `股票技术选股` | `技术选股票` | Technical review for trend, deviation, support, pressure, and execution conditions |
 | `wiki-link-repair` | `wiki修链` | `双链修复` | Repair broken links, missing backlinks, and isolated knowledge pages |
 | `zmt-gzh-zy` | `自媒体公众号写作` | `公众号写作` | Turn research and review assets into publishable public-facing articles |
 
