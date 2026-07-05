@@ -1,6 +1,6 @@
 ---
 name: industry-logic-scorer
-description: Scores current industry-thesis or sector research for first-principles rigor, cycle positioning, supply-demand transmission, capital-cycle discipline, valuation awareness, and falsifiability. Use when Codex needs to review an industry report, strategy note, AI chain memo, bridge-layer research card, results-layer draft, or any market/industry thesis, assign a weighted score, identify blind spots, and propose concrete补证 actions.
+description: 行业逻辑评分器-股票。Scores current industry-thesis or sector research for first-principles rigor, cycle positioning, supply-demand transmission, capital-cycle discipline, valuation awareness, and falsifiability in stock research. Use when Codex needs to review an industry report, strategy note, AI chain memo, bridge-layer research card, results-layer draft, or any stock/market/industry thesis, assign a weighted score, identify blind spots, and propose concrete补证 actions. Trigger on “股票行业逻辑评分”“行业逻辑评分器-股票”“研究打分”“赛道逻辑打分”“股票研究评分”.
 ---
 
 # Industry Logic Scorer
